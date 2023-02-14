@@ -1,0 +1,13 @@
+{
+  "name": "checkpointnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emailsender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
